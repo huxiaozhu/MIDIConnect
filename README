@@ -1,0 +1,3 @@
+
+#MIDIConnect  midi链接的demo
+由于android本身提供的api是基于6.0以上的，但是很多系统还不是6.0，本demo实现了6.0一下的兼容，开发的过程做个笔记。
